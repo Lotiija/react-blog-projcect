@@ -31,12 +31,9 @@ const useFetch = (url) => {
             }
           })
       }, 1000);
-
       return () => abortCont.abort()
     }, [url]);
-
     return {data, isLoading, error }
-
   }
  
 export default useFetch;
