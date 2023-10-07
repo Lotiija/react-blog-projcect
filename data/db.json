@@ -17,6 +17,12 @@
       "body": "We attend services",
       "author": "Sammy",
       "id": 3
+    },
+    {
+      "title": "Monday",
+      "body": "We leave for work",
+      "author": "Ekpu",
+      "id": 4
     }
   ]
 }
