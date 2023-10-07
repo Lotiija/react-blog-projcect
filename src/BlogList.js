@@ -14,7 +14,7 @@ const BlogList = ({ blogs, title, }) => {
             <p>Written by { blog.author }</p>
           </Link>
         </div>
-      ))};
+      ))}
     </div>
    );
 }
